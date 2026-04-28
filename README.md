@@ -3,12 +3,12 @@
 # 🚀 SuperTermux
 
 <p>
-  <b>Run Multiple Linux Distros Inside Termux on Android</b>
+  <b>Run Multiple Linux Environments Inside Termux (Android Only)</b>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Environment-Termux--Only-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
@@ -19,31 +19,33 @@
 
 ## ✨ Overview
 
-**SuperTermux** is a powerful and lightweight tool that allows you to install and run multiple Linux distributions directly inside Termux on your Android device.
+**SuperTermux** is a powerful and lightweight tool designed **only for Termux (Android)**.
 
-Perfect for developers, learners, and enthusiasts who want a portable Linux environment.
+It allows you to install and run multiple Linux environments inside Termux without needing root access.
+
+> ⚠️ This tool does NOT work on native Linux systems. It is made specifically for Termux.
 
 ---
 
-## 🐧 Supported Distributions
+## 🐧 Supported Environments
 
-| Distro        | Status |
-|--------------|--------|
-| Ubuntu       | ✅ Supported |
-| Debian       | ✅ Supported |
-| Arch Linux   | ✅ Supported |
-| Alpine Linux | ✅ Supported |
+| Environment  | Status |
+|-------------|--------|
+| Ubuntu      | ✅ Supported |
+| Debian      | ✅ Supported |
+| Arch Linux  | ✅ Supported |
+| Alpine      | ✅ Supported |
 
 ---
 
 ## ⚡ Features
 
-- 🚀 One-click Linux installation  
-- 📱 Works directly on Termux  
-- ⚡ Fast and lightweight  
+- 🚀 One-click setup inside Termux  
+- 📱 Works only on Android (Termux)  
+- ⚡ Lightweight and fast  
 - 🔓 No root required  
 - 🎯 Beginner-friendly  
-- 🔁 Multiple distro switching  
+- 🔁 Switch between multiple environments  
 
 ---
 
@@ -66,13 +68,13 @@ chmod +x install.sh
 bash start.sh
 ```
 
-Select your preferred Linux distribution and start using it instantly.
+Choose your desired environment and start using it inside Termux.
 
 ---
 
 ## 📸 Preview (Optional)
 
-> Add screenshots here for better engagement
+> Add screenshots here
 
 ```
 [ Screenshot Here ]
@@ -135,12 +137,12 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-**SuperTermux by [Your Name]**
+**SuperTermux by Decoded_191**
 
 ---
 
 <div align="center">
 
-🔥 Built with passion for Termux & Linux 🔥
+🔥 Built for Termux Lovers 🔥
 
 </div>
