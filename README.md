@@ -65,7 +65,7 @@ chmod +x install.sh
 ## ▶️ Usage
 
 ```bash
-bash start.sh
+./supertermux.sh
 ```
 
 Choose your desired environment and start using it inside Termux.
