@@ -54,7 +54,7 @@ It allows you to install and run multiple Linux environments inside Termux witho
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/your-username/SuperTermux.git
+git clone https://github.com/Speed494/SuperTermux
 cd SuperTermux
 chmod +x install.sh
 ./install.sh
