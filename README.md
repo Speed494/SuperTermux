@@ -1,87 +1,146 @@
-🚀 SuperTermux
+<div align="center">
 
-SuperTermux is a powerful Termux-based tool that allows you to install and run multiple Linux distributions directly on your Android device.
+# 🚀 SuperTermux
 
-With this tool, you can easily set up and use the following operating systems inside Termux:
+<p>
+  <b>Run Multiple Linux Distros Inside Termux on Android</b>
+</p>
 
-- 🐧 Ubuntu
-- 🐧 Debian
-- 🐧 Arch Linux
-- 🐧 Alpine Linux
+<p>
+  <img src="https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>
 
----
-
-⚡ Features
-
-- One-click Linux installation in Termux
-- Lightweight and fast performance
-- Supports multiple Linux distributions
-- Beginner-friendly setup
-- No root required
+</div>
 
 ---
 
-📲 Installation
+## ✨ Overview
 
+**SuperTermux** is a powerful and lightweight tool that allows you to install and run multiple Linux distributions directly inside Termux on your Android device.
+
+Perfect for developers, learners, and enthusiasts who want a portable Linux environment.
+
+---
+
+## 🐧 Supported Distributions
+
+| Distro        | Status |
+|--------------|--------|
+| Ubuntu       | ✅ Supported |
+| Debian       | ✅ Supported |
+| Arch Linux   | ✅ Supported |
+| Alpine Linux | ✅ Supported |
+
+---
+
+## ⚡ Features
+
+- 🚀 One-click Linux installation  
+- 📱 Works directly on Termux  
+- ⚡ Fast and lightweight  
+- 🔓 No root required  
+- 🎯 Beginner-friendly  
+- 🔁 Multiple distro switching  
+
+---
+
+## 📲 Installation
+
+```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/your-username/SuperTermux.git
 cd SuperTermux
 chmod +x install.sh
 ./install.sh
+```
 
 ---
 
-▶️ Usage
+## ▶️ Usage
 
-To start the tool:
-
+```bash
 bash start.sh
+```
 
-Then select your desired Linux distribution and start using it.
-
----
-
-⚠️ Important Warning (Read Carefully)
-
-This tool is intended strictly for educational and ethical purposes only.
-
-- ❌ Do NOT use this tool for any illegal activities
-- ❌ Unauthorized hacking, cyber attacks, or system exploitation is strictly prohibited
-- ❌ Do NOT attempt to harm, access, or disrupt any system without proper authorization
-
-Any misuse of this tool is solely the responsibility of the user. The developer will not be held liable for any damage or illegal activities performed using this tool.
-
-By using this tool, you agree that:
-
-«"I will use this tool only for learning, ethical testing, and personal development purposes."»
+Select your preferred Linux distribution and start using it instantly.
 
 ---
 
-📌 Disclaimer
+## 📸 Preview (Optional)
 
-This project is created for educational purposes only.
-The developer does not promote or support any kind of illegal or unethical activity.
+> Add screenshots here for better engagement
 
-If any user misuses this tool, the developer will not be responsible for any consequences.
+```
+[ Screenshot Here ]
+```
 
 ---
 
-💡 Contributing
+## ⚠️ Security & Usage Warning
+
+> 🚨 **Read this carefully before using the tool**
+
+This tool is created **strictly for educational and ethical purposes only**.
+
+- ❌ Do NOT use this tool for illegal activities  
+- ❌ Do NOT perform unauthorized hacking or cyber attacks  
+- ❌ Do NOT access systems without permission  
+
+### 🛑 Legal Notice
+
+Any misuse of this tool is the **sole responsibility of the user**.
+
+The developer:
+
+- ❌ Is NOT responsible for any damage  
+- ❌ Is NOT liable for illegal usage  
+- ❌ Does NOT promote unethical activities  
+
+By using this tool, you agree:
+
+> "I will use SuperTermux only for learning, ethical testing, and personal development."
+
+---
+
+## 📌 Disclaimer
+
+This project is provided for **educational purposes only**.  
+The developer has no responsibility for misuse or illegal actions performed using this tool.
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
-Feel free to open issues or submit pull requests.
+
+1. Fork the repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Open a pull request  
 
 ---
 
-⭐ Support
+## ⭐ Support
 
-If you like this project, consider giving it a star ⭐
+If you like this project:
+
+👉 Give it a **star ⭐**  
+👉 Share it with others  
+
+---
+
+## 👨‍💻 Author
+
+**SuperTermux by [Your Name]**
 
 ---
 
-👨‍💻 Author
+<div align="center">
 
-SuperTermux by [Decoded_191]
+🔥 Built with passion for Termux & Linux 🔥
 
----
+</div>
