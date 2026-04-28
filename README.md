@@ -72,15 +72,7 @@ Choose your desired environment and start using it inside Termux.
 
 ---
 
-## 📸 Preview (Optional)
 
-> Add screenshots here
-
-```
-[ Screenshot Here ]
-```
-
----
 
 ## ⚠️ Security & Usage Warning
 
