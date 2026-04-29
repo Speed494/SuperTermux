@@ -1,7 +1,13 @@
 #!/bin/bash
 
-clear
 
+
+clear
+ping -c 1 google.com >/dev/null 2>&1
+if [ "$?" != '0' ]; then
+  printf "Internet on karlo please!!\n"
+  exit 1
+fi 
 echo -e "\e[1;32m"
 echo "  _____ _____"
 echo " / ____|_   _|"
@@ -30,7 +36,11 @@ if [[ $agree != "yes" ]]; then
 fi
 
 clear
-
+ping -c 1 google.com >/dev/null 2>&1
+if [ "$?" != '0' ]; then
+  printf "Internet on karlo please!!\n"
+  exit 1
+fi 
 while true
 do
 
