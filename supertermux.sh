@@ -63,7 +63,7 @@ echo " SUPER TERMUX"
 echo -e "\e[0m"
 
     echo -e "${CYAN}==============================${RESET}"
-    echo "   D3C0D3D_191 Tool Menu " | lolcat
+    echo "   DECODED_191 Tool Menu " | lolcat
     echo -e "${CYAN}==============================${RESET}"
     echo -e "\033[1;31m⚠️ WARNING:\033[0m"
     echo -e "\033[1;33mThis tool is made for EDUCATIONAL and ETHICAL purposes only.\033[0m"
