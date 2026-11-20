@@ -129,7 +129,7 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-**SuperTermux by Decoded_191**
+**SuperTermux by Ashutosh Das ( KRAZE )**
 
 ---
 
